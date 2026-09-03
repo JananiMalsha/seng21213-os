@@ -1,0 +1,8 @@
+build/
+*.o
+*.bin
+*.elf
+*.img
+seng21213.img
+seng21213-os.img
+.DS_Store
