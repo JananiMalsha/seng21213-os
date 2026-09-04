@@ -6,3 +6,4 @@ build/
 seng21213.img
 seng21213-os.img
 .DS_Store
+qemu_debug.log
